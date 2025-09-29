@@ -6,7 +6,7 @@ import axios from 'axios';
 // --- Configuration ---
 // !!! IMPORTANT: REPLACE WITH YOUR ACTUAL LOCAL IP ADDRESS !!!
 // Example: const API_URL = 'http://192.168.1.5:5000/api/analyze-crop';
-const API_URL = 'http://10.118.56.60:5000/api/analyze-crop'; 
+const API_URL = 'http://10.196.11.60:5000/api/analyze-crop'; 
 // !!!                                                     !!!
 // --- End Configuration ---
 
